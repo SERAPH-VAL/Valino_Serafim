@@ -20,5 +20,5 @@
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/go.png) |
-| [2. Функция. Выход из лабиринта](./contest_02/02/main.go) |  ![](./img/go.png) |
+
 
