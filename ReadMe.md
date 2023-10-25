@@ -21,4 +21,6 @@
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/go.png) |
 
-
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/go.png) |
