@@ -24,3 +24,7 @@
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems) |  |
 | --- | :-: |
 | [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/54625/problems) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
