@@ -19,12 +19,14 @@
  
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
-| [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/go.png) |
+| [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems) |  |
 | --- | :-: |
-| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/go.png) |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems) |  |
 | --- | :-: |
 | [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) | ![](./img/cpp.png) |
+
